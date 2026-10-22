@@ -24,11 +24,8 @@ local.properties
 !apps/android-observer-app/youpi-sms-gateway.apk
 
 # Environment and Secrets
-.env
-.env.local
 .env.development.local
 .env.test.local
-.env.production
 .env.production.local
 
 # Databases and Local State
@@ -73,3 +70,4 @@ TRACKER.md
 # Android / Gradle build output
 .gradle/
 build/
+config.bat
